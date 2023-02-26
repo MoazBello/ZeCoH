@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeCoH
+- 👋 Hi, I’m @Moaz Ali
 - 👀 I’m interested in tech in all
 - 🌱 I’m currently learning C++ and Cybersecurity 
 - 💞️ I’m looking to collaborate on cyber projects
